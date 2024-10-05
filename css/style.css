@@ -1,0 +1,15 @@
+* {
+    max-width: 1280px;
+    margin: 0 auto;
+}
+.operation_buttons {
+    margin: 100px auto;
+    display: flex;
+    justify-content: center;
+    max-width: 400px;
+}
+.calculator_numbers {
+    display: flex;
+    justify-content: center;
+    max-width: 800px;
+}
